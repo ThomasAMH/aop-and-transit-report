@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+aop_report/Completed Reports/*
+Data Handling/Input Data Errors/*
+Input Data/data_extract/*
+Input Data/manhattan_user_dashboard/*
+Program Data/combined_files/*
+Program Data/data_by_month/*
+Program Data/order_data/*
+Shared Config Files/*
+transit_time_report/completed_reports/*
+transit_time_report/errors/*
+.vscode/launch.json
